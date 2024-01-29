@@ -15,7 +15,10 @@
       "title": "Jujutsu Kaisen",
       "vote_average": 6.9,
     },
-  ]
-  "total_pages": 42191,
-  "total_results": 843814
+   ],
+  "name": "Slider",
+  "page": 1,
+  "poster_path": null,
+  "total_pages": 1,
+  "total_results": 1
 }
